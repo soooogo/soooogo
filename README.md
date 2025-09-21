@@ -7,9 +7,9 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 ### GitHub Statistics 📊
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="soooogo" width="410" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=default&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=default&hide_border=true&include_all_commits=true&count_private=true&include_all_commits=true" alt="soooogo" width="410" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soooogo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
