@@ -22,13 +22,9 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
   </picture>
 </p>
 
-### GitHub Achievements
+### GitHub Metrics
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <img alt="github achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
-  </picture>
+  <img src="github-metrics.svg" alt="github metrics" width="800" />
 </p>
 
 ### 3D Profile Contribution Chart
@@ -49,5 +45,3 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 ## Connect with me
 
 - [GitHub](https://github.com/soooogo)
-- [LinkedIn](https://www.linkedin.com/in/soooogo/)
-- [Twitter](https://twitter.com/soooogo)
