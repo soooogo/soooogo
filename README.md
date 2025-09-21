@@ -36,11 +36,5 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 ## Skills
 
 - **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
+- **Frameworks**: React, Next.js, FastAPI
 - **Tools**: Git, Docker, VS Code
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/username/)
-- [Twitter](https://twitter.com/username)
-- [Personal Website](https://username.github.io)
