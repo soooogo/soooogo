@@ -5,7 +5,31 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 ## Profile
 
 ### GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=chartreuse-dark" alt="soooogo" width="410" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=soooogo&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="soooogo" width="410" />
+  </picture>
+</p>
+
+### Top Languages
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soooogo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soooogo&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooogo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="soooogo" width="300" />
+  </picture>
+</p>
+
+### GitHub Achievements
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+    <img alt="github achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
+  </picture>
+</p>
 
 ### 3D Profile Contribution Chart
 <p align="center">
@@ -21,3 +45,9 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 - **Languages**: JavaScript, Python, Java
 - **Frameworks**: React, Next.js, FastAPI
 - **Tools**: Git, Docker, VS Code
+
+## Connect with me
+
+- [GitHub](https://github.com/soooogo)
+- [LinkedIn](https://www.linkedin.com/in/soooogo/)
+- [Twitter](https://twitter.com/soooogo)

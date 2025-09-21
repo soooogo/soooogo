@@ -46,4 +46,11 @@ jobs:
           achievements_display: detailed
           achievements_lock: true
           achievements_threshold: S
+          base: header, activity, community, repositories, metadata, achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: S
+          plugin_achievements_secrets: true
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 10
+          plugin_achievements_sort: S
           output: output
