@@ -1,0 +1,49 @@
+name: generate metrics for profile
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the main branch
+  # don't forget to change if you're using 'master' branch
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-metrics
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          # Options
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          repositories: ${{ github.repository }}
+          repository_visibility: all
+          repository_forks: include
+          repository_affiliations: owner,collaborator,organization_member
+          commits_authoring: include
+          commits_ownership: include
+          issues_authoring: include
+          issues_ownership: include
+          pull_requests_authoring: include
+          pull_requests_reviewing: include
+          discussions_authoring: include
+          discussions_answering: include
+          achievements_enabled: true
+          achievements_ignore: false
+          achievements_compact: true
+          achievements_display: detailed
+          achievements_lock: true
+          achievements_threshold: S
+          output: output
